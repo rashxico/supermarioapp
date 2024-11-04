@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Super Mario Bros App</string>
+    <string name="desc_mario">He is the protagonist of the series. A brave and optimistic plumber, he is always ready to rescue Princess Peach from Bowser\'s clutches. With his iconic red hat and mustache, Mario is known for his jumping ability and power-ups, such as the Fire Flower and the Super Star.</string>
+    <string name="desc_luigi">Luigi is Mario\'s younger brother, also a plumber, but often feels overshadowed. He is taller and thinner than Mario, with a green hat. Though sometimes scared, he proves to be brave and loyal, especially in his role in games like "Luigi\'s Mansion".</string>
+    <string name="desc_peach">Princess Peach: The sweet and noble princess of the Mushroom Kingdom, Peach is known for her kindness and love of sweets. She is often kidnapped by Bowser, but she also shows her bravery by joining adventures and sports games.</string>
+    <string name="desc_toad">Toad is a friendly and loyal character from the Super Mario universe. Known for his mushroom-like hat with red or blue spots and yellow jacket, Toad is a resident of the Mushroom Kingdom and a loyal assistant to Princess Peach. Despite his small size, he is brave and always ready to help Mario and his friends on their adventures.</string>
+
+    <string name="carac_mario">Appearance: Red hat, blue overalls, red shirt, prominent mustache. Personality: Brave, optimistic, determined, and loyal. Always ready to help his friends. Abilities: Excellent jumping skills, can use power-ups like the Fire Flower (which allows him to throw fireballs) and the Super Star (which grants him invulnerability). Role in the series: Main protagonist, known as the hero of the Mushroom Kingdom.</string>
+    <string name="carac_luigi">Appearance: Green hat, blue overalls, green shirt, tall and slim, also with a mustache. Personality: More timid and cautious than Mario, but brave when facing his fears. He is loyal and protective of his brother. Abilities: High jump and power-ups similar to Mario\'s. In "Luigi\'s Mansion," he uses a special vacuum to capture ghosts. Role in the series: Often acts as Mario\'s companion and is the protagonist in some games, particularly "Luigi\'s Mansion".</string>
+    <string name="carac_peach">Appearance: Wears a pink dress with a golden tiara, blonde hair, and blue eyes. Personality: Kind, sweet, and compassionate, but also brave and determined. Sometimes feels trapped in her role as a damsel in distress but shows her strength in various situations. Abilities: In several games, demonstrates special abilities, such as floating in "Super Smash Bros." and is a playable character in "Super Mario 3D World" with unique skills. Role in the series: Often kidnapped by Bowser but also actively participates in adventures and sporting events.</string>
+    <string name="carac_toad">Appearance: Hat with red or blue spots, yellow vest, white pants, and brown shoes. Short stature and round body. Personality: Cheerful, optimistic, brave, and loyal. Always willing to help Mario and Princess Peach, even in difficult situations. Abilities: Great speed and agility, skilled at collecting items, and good jumping ability. Although not a fighter, he is a great support for the heroes. Role in the series: Resident and assistant in the Mushroom Kingdom. Generally acts as a guide or support character, providing information and useful items to Mario and his friends.</string>
+
+    <string name="navigation_drawer_open">Open menu</string>
+    <string name="navigation_drawer_close">Close menu</string>
+    <string name="drawer_open">Open menu</string>
+    <string name="drawer_close">Close menu</string>
+<string name="acerca">About</string>
+    <string name="app_bar_switch">Language</string>
+    <string name="firma">Application developed by Ángel Vargas</string>
+    <string name="mens_bienvenida">"Welcome to the world of Mario:"</string>
+    <string name="detalles">Details loaded for:"</string>
+    <string name="volver">return</string>
+</resources>

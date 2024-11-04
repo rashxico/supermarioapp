@@ -1,0 +1,27 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Super Mario Bros App</string>
+    <string name="desc_mario">Es el protagonista de la serie. Un fontanero valiente y optimista, siempre está listo para rescatar a la Princesa Peach de las garras de Bowser. Con su icónico sombrero rojo y su bigote, Mario es conocido por su habilidad para saltar y sus power-ups, como la Flor de Fuego y la Superestrella.</string>
+    <string name="desc_luigi">Luigi: El hermano menor de Mario, Luigi es también un fontanero, pero a menudo se siente en la sombra de su hermano. Es más alto y delgado que Mario, con un sombrero verde. Aunque a veces se muestra asustado, demuestra ser valiente y leal, especialmente en su papel en juegos como "Luigi's Mansion".</string>
+    <string name="desc_peach">Princesa Peach: La dulce y noble Princesa del Reino Champiñón, Peach es conocida por su amabilidad y su amor por los dulces. A menudo es secuestrada por Bowser, pero también muestra su valentía al participar en aventuras y juegos deportivos.</string>
+    <string name="desc_toad">Toad es un personaje simpático y fiel del universo de Super Mario. Es conocido por su característico gorro en forma de hongo, con manchas rojas o azules, y su chaqueta amarilla. Toad es un habitante del Reino Champiñón y suele ser un asistente leal de la Princesa Peach. A pesar de su pequeño tamaño, es valiente y siempre está dispuesto a ayudar a Mario y a sus amigos en sus aventuras.</string>
+    <string name="carac_mario">Apariencia: Sombrero rojo, overol azul, camiseta roja, bigote prominente. Personalidad: Valiente, optimista, decidido y leal. Siempre está listo para ayudar a sus amigos. Habilidades: Excelentes habilidades de salto, capacidad de usar power-ups como la Flor de Fuego (que le permite lanzar bolas de fuego) y la Superestrella (que le otorga invulnerabilidad). Rol en la serie: Protagonista principal, conocido como "el héroe" del Reino Champiñón.</string>
+    <string name="carac_luigi">Apariencia: Sombrero verde, overol azul, camiseta verde, alto y delgado, también con bigote. Personalidad: Más tímido y cauteloso que Mario, pero es valiente cuando se enfrenta a sus miedos. Es leal y protector con su hermano. Habilidades: Salto alto y capacidad de usar power-ups similares a los de Mario. En "Luigi's Mansion", utiliza una aspiradora especial para capturar fantasmas. Rol en la serie: A menudo actúa como el compañero de Mario y, en algunos juegos, es el protagonista, especialmente en "Luigi's Mansion".</string>
+    <string name="carac_peach">Apariencia: Lleva un vestido rosa con una tiara dorada, cabello rubio y ojos azules. Personalidad: Amable, dulce y compasiva, pero también valiente y decidida. A veces se siente atrapada en su rol de damisela en apuros, pero muestra su fortaleza en diversas situaciones. Habilidades: En varios juegos, demuestra habilidades especiales, como flotación en "Super Smash Bros." y puede ser jugadora jugable en "Super Mario 3D World" con habilidades únicas. Rol en la serie: A menudo es secuestrada por Bowser, pero también participa activamente en aventuras y eventos deportivos.</string>
+    <string name="carac_toad">Apariencia: Sombrero con manchas rojas o azules, chaleco amarillo, pantalones blancos y zapatos marrones. De baja estatura y cuerpo redondeado. Personalidad: Alegre, optimista, valiente y leal. Siempre dispuesto a ayudar a Mario y la Princesa Peach, incluso en situaciones difíciles. Habilidades: Gran velocidad y agilidad, experto en recoger ítems y tiene buena capacidad de salto. Aunque no es un luchador, es un gran soporte para los héroes. Rol en la serie: Habitante y asistente en el Reino Champiñón. Generalmente actúa como guía o personaje de apoyo, proporcionando información y objetos útiles a Mario y sus amigos.</string>
+    <string name="navigation_drawer_open">Abrir menú</string>
+    <string name="navigation_drawer_close">Cerrar menú</string>
+    <string name="drawer_open">Abrir menú</string>
+    <string name="drawer_close">Cerrar menú</string>
+    <string name="acerca">Acerca de..</string>
+    <string name="app_bar_switch">Idioma</string>
+    <string name="firma">Aplicación desarrollada por Ángel Vargas</string>
+    <string name="mens_bienvenida">"Bienvenidos al mundo de Mario
+          Seleccione un personaje"</string>
+    <string name="luigi" translatable="false">Luigi</string>
+    <string name="mario" translatable="false">Mario</string>
+    <string name="peach" translatable="false">Peach</string>
+    <string name="toad" translatable="false">Toad</string>
+    <string name="detalles">Detalles cargados para:</string>
+    <string name="volver">volver</string>
+
+</resources>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Layout de la pantalla de portada -->
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#0F52BA"
+    tools:context=".SplashActivity"
+    tools:ignore="ExtraText">
+    />
+
+    <!-- Botón para entrar en la app -->
+
+    <ImageView
+        android:id="@+id/portada_image"
+        android:layout_width="320dp"
+        android:layout_height="325dp"
+        android:layout_marginStart="116dp"
+        android:layout_marginTop="160dp"
+        android:layout_marginEnd="104dp"
+        android:layout_marginBottom="306dp"
+        android:src="@drawable/titulo"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:ignore="MissingConstraints" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="60dp"
+        android:layout_marginEnd="60dp"
+        android:layout_marginBottom="231dp"
+        android:fontFamily="sans-serif-black"
+        android:text="Super Mario Bros App"
+        android:textColor="@color/amarillomario"
+        android:textSize="34sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <!-- Texto del botón -->
+    />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

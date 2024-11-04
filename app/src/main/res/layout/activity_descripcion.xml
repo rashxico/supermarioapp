@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+
+
+
+
+
+    <ImageView
+        android:id="@+id/imagePersonaje"
+        android:layout_width="match_parent"
+        android:layout_height="376dp"
+        android:contentDescription="TODO"
+        android:scaleType="centerCrop" />
+    <TextView
+        android:id="@+id/textViewNombre"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:layout_gravity="center"
+        android:textSize="30sp"
+        android:scrollbars="vertical"
+        android:padding="50dp"/>
+    <TextView
+        android:id="@+id/textViewDescripcion"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="18sp"
+        android:scrollbars="vertical"
+        android:padding="40dp"/>
+    <TextView
+        android:id="@+id/textViewCaracteristicas"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:textSize="18sp"
+        android:scrollbars="vertical"
+        android:padding="40dp"/>
+
+    <Button
+        android:id="@+id/button"
+        style="@style/Widget.AppCompat.Button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:stateListAnimator="@android:anim/overshoot_interpolator"
+        android:text="@string/volver"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body2" />
+</LinearLayout>
+    </ScrollView>
